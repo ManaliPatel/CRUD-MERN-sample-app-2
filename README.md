@@ -1,14 +1,16 @@
-# Getting Started with Create React App
+## CRUD-MERN-sample-app-2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Followed this video for this project: https://www.youtube.com/watch?v=7CqJlxBYj-M
+- Express and MongoDB as backend and React as frontend.
+- I wrote cypress tests and Jest tests afterwards.
 
 ## Installed libraries:
 
-nodemon : monitor any changes in your code and automatically restarts \n
-dotenv : loads environment variable from a `.env` file into `process.env`. \n
-express : web application framework for node \n
-mongoDB Atlas: allows you to host and see MongoDB database \n
-axios: allows you to create HTTP request and send it from frontend to backend \n
+- nodemon : monitor any changes in your code and automatically restarts
+- dotenv : loads environment variable from a `.env` file into `process.env`.
+- express : web application framework for node
+- mongoDB Atlas: allows you to host and see MongoDB database
+- axios: allows you to create HTTP request and send it from frontend to backend
 
 ## to start localhost
 
