@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installed libraries:
 
-nodemon : monitor any changes in your code and automatically restarts
-dotenv : loads environment variable from a `.env` file into `process.env`.
-express : web application framework for node
-mongoDB Atlas: allows you to host and see MongoDB database
-axios: allows you to create HTTP request and send it from frontend to backend
+nodemon : monitor any changes in your code and automatically restarts \n
+dotenv : loads environment variable from a `.env` file into `process.env`. \n
+express : web application framework for node \n
+mongoDB Atlas: allows you to host and see MongoDB database \n
+axios: allows you to create HTTP request and send it from frontend to backend \n
 
 ## to start localhost
 
