@@ -19,7 +19,3 @@ npm install > npm start (to start frontend)
 cd backend > npm install > npx nodemon server (to start backend)
 
 ```
-
-## cypress tests
-
-## jest tests
